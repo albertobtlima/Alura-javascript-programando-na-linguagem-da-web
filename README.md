@@ -7,7 +7,7 @@ Projeto de site: Aparecida Nutrição
 
 O projeto consiste de um formulario para claculo de IMC, onde é possível adicionar ou remover pacientes.
 
-[Acesse aqui]()
+[Acesse aqui](https://albertobtlima.github.io/Alura-javascript-programando-na-linguagem-da-web/)
 
 **Temas abordados no curso**
 
