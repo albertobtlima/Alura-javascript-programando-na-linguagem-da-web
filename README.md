@@ -5,6 +5,10 @@ Curso de JavaScript Front-end da Alura.
 
 Projeto de site: Aparecida Nutrição
 
+O projeto consiste de um formulario para claculo de IMC, onde é possível adicionar ou remover pacientes.
+
+[Acesse aqui]()
+
 **Temas abordados no curso**
 
 * Entenda mais como funciona esta popular linguagem do mercado
